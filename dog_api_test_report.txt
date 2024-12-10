@@ -1,0 +1,16 @@
+Dog API Test Report
+
+1. Test: Get random dog image
+   Passed
+
+2. Test: List all breeds
+   Passed
+
+3. Test: Get breed image
+   Passed
+
+4. Test: Invalid breed name
+   Passed
+
+5. Test: Sub-breeds
+   Passed
